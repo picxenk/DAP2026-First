@@ -9,4 +9,15 @@
 - 탐조
 - 빈티지 연필
 
-> The best way to predict the future is to invent it. --Alan C. Kay
+> The best way to predict the future is to invent it. 
+>
+> --Alan C. Kay
+
+```JavaScript
+function setup() {
+}
+
+function draw() {
+  circle(10, 10, 100);
+}
+```
