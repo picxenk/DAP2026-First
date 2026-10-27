@@ -1,5 +1,5 @@
 # DAP2026-First
-디아프 수업 연습용으로 만듭니다.
+디아프 수업 연습용으로 만듭니다. 너무 즐거워.
 
 - 김승범 <picxenk@gmail.com>
 - https://metakits.cc
