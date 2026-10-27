@@ -7,7 +7,7 @@
 # 나의 관심 분야
 - 커피
 - 탐조
-- 빈티지 연필
+- 빈티지 만년필
 
 > The best way to predict the future is to invent it. 
 >
