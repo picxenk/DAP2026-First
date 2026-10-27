@@ -8,6 +8,7 @@
 - 커피
 - 탐조
 - 빈티지 만년필
+- 인디 게임
 
 > The best way to predict the future is to invent it. 
 >
